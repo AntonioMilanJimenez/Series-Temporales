@@ -1,4 +1,4 @@
-#Antonio Manuel Milán Jiménez  77449165T
+#Antonio Manuel Milán Jiménez
 #antoniomj@correo.ugr.es
 #Ejercicio de trabajo autónomo. Series temporales. Curso 2018-2019
 
